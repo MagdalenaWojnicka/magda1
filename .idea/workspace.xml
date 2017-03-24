@@ -31,9 +31,11 @@
         <entry file="file://$PROJECT_DIR$/mag2.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding>
-                <marker date="1490388794000" expanded="false" signature="261:288" ph="..." />
+                <marker date="1490389402000" expanded="true" signature="666:843" ph="..." />
+                <marker date="1490389402000" expanded="true" signature="711:834" ph="{...}" />
+                <marker date="1490389402000" expanded="true" signature="753:826" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -283,7 +285,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11404000" />
+    <option name="totallyTimeSpent" value="12059000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="15" y="47" width="1260" height="669" extended-state="0" />
@@ -432,7 +434,9 @@
         <state relative-caret-position="120">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <marker date="1490388794000" expanded="false" signature="261:288" ph="..." />
+            <marker date="1490389402000" expanded="true" signature="666:843" ph="..." />
+            <marker date="1490389402000" expanded="true" signature="711:834" ph="{...}" />
+            <marker date="1490389402000" expanded="true" signature="753:826" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -543,9 +547,11 @@
     <entry file="file://$PROJECT_DIR$/mag2.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
-            <marker date="1490388794000" expanded="false" signature="261:288" ph="..." />
+            <marker date="1490389402000" expanded="true" signature="666:843" ph="..." />
+            <marker date="1490389402000" expanded="true" signature="711:834" ph="{...}" />
+            <marker date="1490389402000" expanded="true" signature="753:826" ph="{...}" />
           </folding>
         </state>
       </provider>
